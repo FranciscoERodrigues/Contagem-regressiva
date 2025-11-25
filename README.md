@@ -1,2 +1,2 @@
-# Contagem-Regressiva
-Contagem regressiva para uma abertura de site.
+# Contagem-regressiva
+Contagem regressiva para uma abertura de site :)
